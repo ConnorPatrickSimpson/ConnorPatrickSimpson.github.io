@@ -1,7 +1,8 @@
 body {
 	background-image: url(concrete_seamless.png);
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-	font-family: Arial, Helvetica, sans-serif;
+	font-size: 150%;
 }
