@@ -1,6 +1,9 @@
 body {
-	background-image: url(concrete_seamless.png);
-	font-family: Arial, Helvetica, sans-serif;
+	background-image: url(background.png);
+}
+
+h1 {
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
 }
 
 p {
